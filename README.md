@@ -1,2 +1,2 @@
 # potencia-token
-Repositorio oficial del token descentralizado Potencia (PTCA). Suministro fijo de 21.000.000 tokens
+Repositorio oficial del token descentralizado Potencia (PTCA). Suministro fijo de 18.000.000 tokens
